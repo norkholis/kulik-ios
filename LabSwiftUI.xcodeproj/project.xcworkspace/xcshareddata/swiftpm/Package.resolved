@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Cleanse",
+        "repositoryURL": "https://github.com/square/Cleanse",
+        "state": {
+          "branch": null,
+          "revision": "c854787f83d99527587b5387f04ccd0030e6133a",
+          "version": "4.2.6"
+        }
+      },
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher",
+        "state": {
+          "branch": null,
+          "revision": "5be9bf59061d0da52d89f5eebc22eb295fbbceee",
+          "version": "5.15.7"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
